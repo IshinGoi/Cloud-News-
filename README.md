@@ -10,7 +10,7 @@
 
 获得企业ID(Company ID)（`corpid`）
 
-![image-20211108170922062](C:\Users\666\Desktop\Cloud-news\img\image-20211108170922062.png)
+![image-20211108170922062](\img\image-20211108170922062.png)
 
 ## 步骤二
 
