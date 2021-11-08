@@ -10,7 +10,7 @@
 
 获得企业ID(Company ID)（`corpid`）
 
-![image-20211108170922062](img\image-20211108170922062.png)
+![image-20211108170922062](https://github.com/IshinGoi/Cloud-News-/blob/main/img/image-20211102201242650.png)
 
 ## 步骤二
 
@@ -21,7 +21,7 @@
 2. 填入你想要的应用名称和简介。
 3. 点进应用中，查看`Secret`
 
-![image-20211102201242650](C:\Users\666\Desktop\Cloud-news\img\image-20211102201242650.png)
+![image-20211102201242650](https://github.com/IshinGoi/Cloud-News-/blob/main/img/image-20211102201242650.png)
 
 ## 步骤三
 
@@ -32,7 +32,7 @@
 3. `.shtml`前面的一串数字如`101280800`就是你城市的`ID`。
 4. 按F12，点击Network选项卡，刷新网页，点击捕获的第一个包，在Headers里面找到`cookie`。
 
-![image-20211108173228460](C:\Users\666\Desktop\Cloud-news\img\image-20211108173228460.png)
+![image-20211108173228460](https://github.com/IshinGoi/Cloud-News-/blob/main/img/image-20211108173228460.png)
 
 ## 步骤四
 
@@ -59,17 +59,17 @@ pip install requests -t . # 将需要的库指定导入到文件夹
 
 ### 同时在该目录下创建函数入口文件`index.py` （这一步我已经帮你做好了）
 
-![image-20211102233925284](C:\Users\666\Desktop\Cloud-news\img\image-20211102233925284.png)
+![image-20211102233925284](https://github.com/IshinGoi/Cloud-News-/blob/main/img/image-20211102233925284.png)
 
 ### 在文件夹内部将全部文件解压成zip后上传到云函数
 
-![image-20211102234535075](C:\Users\666\Desktop\Cloud-news\img\image-20211102234535075.png)
+![image-20211102234535075](https://github.com/IshinGoi/Cloud-News-/blob/main/img/image-20211102234535075.png)
 
 ### 上传至云端
 
-![image-20211102233338423](C:\Users\666\Desktop\Cloud-news\img\image-20211102233338423.png)
+![image-20211102233338423](https://github.com/IshinGoi/Cloud-News-/blob/main/img/image-20211102233338423.png)
 
 ### 设置定时触发器
 
-![image-20211102233418949](C:\Users\666\Desktop\Cloud-news\img\image-20211102233418949.png)
+![image-20211102233418949](https://github.com/IshinGoi/Cloud-News-/blob/main/img/image-20211102233418949.png)
 
