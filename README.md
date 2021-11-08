@@ -10,7 +10,7 @@
 
 获得企业ID(Company ID)（`corpid`）
 
-![image-20211108170922062](https://github.com/IshinGoi/Cloud-News-/blob/main/img/image-20211102201242650.png)
+![image-20211108170922062](https://github.com/IshinGoi/Cloud-News-/blob/main/img/image-20211108170922062.png)
 
 ## 步骤二
 
